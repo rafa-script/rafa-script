@@ -14,9 +14,9 @@
  ⏳ Cats - Games - Animes - Horror movies - High fantasy books<br><br>
 <h1></h1>
 <div>
-   <a href="https://github.com/rafael-dscarvalho">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-dscarvalho&show_icons=true&theme=radical">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-dscarvalho&layout=compact&theme=radical">
+   <a href="https://github.com/rafa-script">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-scripto&show_icons=true&theme=radical">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-script&layout=compact&theme=radical">
 </div>
 
 </div>
@@ -26,6 +26,6 @@
 
  <div align='center'>
    <a href ="https://www.instagram.com/"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target ="_blank"></a>
-   <a href ="https://www.linkedin.com/in/rafael-dscarvalho/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank"></a>
-   <a href ="mailto:rafaeldscarvalho@hotmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href ="https://www.linkedin.com/in/rafa-script/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank"></a>
+   <a href ="mailto:rafael.dscarvalho.dev@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </div>
