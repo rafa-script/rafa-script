@@ -15,7 +15,7 @@
 <h1></h1>
 <div>
    <a href="https://github.com/rafa-script">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-scripto&show_icons=true&theme=radical">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-script&show_icons=true&theme=radical">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-script&layout=compact&theme=radical">
 </div>
 
